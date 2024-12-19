@@ -3,6 +3,7 @@ import sys
 import requests
 import pandas as pd
 import json
+import seaborns as sns
 
 def check_file_permissions():
     """Check and print file permissions and location"""
